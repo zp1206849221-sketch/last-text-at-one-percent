@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=last-text-at-one-percent)
 [![rank](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/zp1206849221-sketch/last-text-at-one-percent/rank.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=last-text-at-one-percent)
-[![reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=last-text-at-one-percent)
+[![reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/zp1206849221-sketch/last-text-at-one-percent/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=last-text-at-one-percent)
 
 # Last Text at One Percent
 
